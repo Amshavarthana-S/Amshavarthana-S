@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hello, I'm Amshavarthana Sreesivanathasarma</h1>
-<h3 align="center">Full-Stack Web Developer | Java | Spring Boot | React</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="200"/>
-</p>
+<h3 align="center">💻 Passionate Full-Stack Developer & Software Engineering Undergraduate</h3> <p align="center"> <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot%20|%20React-blue?style=for-the-badge&logo=java" /> </p>
 
 
 
