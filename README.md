@@ -2,8 +2,9 @@
 <h3 align="center">Full-Stack Web Developer | Java | Spring Boot | React</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1622796/screenshots/11167073/media/fd9b9c3db7d8e8e3f9d8b3a0f99a3bfc.png" width="200"/>
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="200"/>
 </p>
+
 
 
 ---
@@ -19,7 +20,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,react,mysql,git,github,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,react,mysql,git,github,postman" />
 </p>
 
 ---
