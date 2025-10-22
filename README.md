@@ -1,9 +1,10 @@
-<h1 align="center">👋 Hello, I'm Amsha Varthana S</h1>
+<h1 align="center">👋 Hello, I'm Amshavarthana Sreesivanathasarma</h1>
 <h3 align="center">Full-Stack Web Developer | Java | Spring Boot | React</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+  <img src="https://cdn.dribbble.com/users/1622796/screenshots/11167073/media/fd9b9c3db7d8e8e3f9d8b3a0f99a3bfc.png" width="200"/>
 </p>
+
 
 ---
 
