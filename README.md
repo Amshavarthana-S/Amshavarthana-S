@@ -1,35 +1,33 @@
 <h1 align="center">👋 Hello, I'm Amshavarthana Sreesivanathasarma</h1>
-<h3 align="center">💻 Passionate Full-Stack Developer & Software Engineering Undergraduate</h3> <p align="center"> <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot%20|%20React-blue?style=for-the-badge&logo=java" /> </p>
-
-
+<h3 align="center">💻 Passionate Full-Stack Developer & Aspiring Data Analyst</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot%20|%20React%20|%20Python%20Pandas-blue?style=for-the-badge&logo=python" />
+</p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Software Engineering Undergraduate at **University of Kelaniya**  
-- 💻 Passionate about **building interactive web applications**  
-- 🌱 Currently learning **Spring Boot, React, and MySQL**  
-- ☁️ Interested in **Cloud Computing & Deployment**  
-- 💡 Strong foundation in **Java, OOP, Web Fundamentals**  
+- 💻 Passionate about **building interactive web applications** and **analyzing data**  
+- 🌱 Currently learning **Spring Boot, React, MySQL, Python, and Pandas**  
+- 💡 Strong foundation in **Java, OOP, Web Fundamentals, and Data Analysis**  
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,react,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,react,mysql,git,github,postman,python,pandas,matplotlib,seaborn" />
 </p>
 
 ---
 
 ### 🎯 Current Goals
 - 🌐 Master **Full-Stack Web Development**  
-- ⚙️ Build personal projects using **Spring Boot + React**  
-- ☁️ Learn **Cloud Computing (AWS, Deployment Tools)**  
-- 💬 Contribute to **Open-source projects**  
+- 📊 Improve **Data Analysis & Visualization with Python and Pandas**  
+- ⚙️ Build personal projects combining **Web + Data Science**  
+- 💬 Contribute to **Open-source projects in both fields**  
 
 ---
-
-
 
 ### 🌐 Connect With Me
 <p align="center">
@@ -45,5 +43,4 @@
 </p>
 
 ---
-- ⚡ Fun Fact: *“Turning imagination into functional web apps — one commit at a time!”*
-
+- ⚡ Fun Fact: *“Turning imagination and data into functional insights — one project at a time!”*
