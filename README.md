@@ -2,7 +2,7 @@
 <h3 align="center">📊 Aspiring Data Science Intern | 💻 Software Engineering Undergraduate</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Python%20|%20Pandas%20|%20Data%20Analysis%20|%20React-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Python%20|%20Pandas%20|%20NumPy%20|%20Matplotlib%20|%20Seaborn%20|%20Machine%20Learning%20|%20React-blue?style=for-the-badge&logo=python" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🎓 Software Engineering Undergraduate (3rd Year) at **University of Kelaniya**  
 - 📊 Interested in **Data Science, Data Analysis, and Data Cleaning**  
 - 💻 Experience in **Web & Backend Development**  
-- 🌱 Currently learning **Python, Pandas, Data Analysis, React, and Spring Boot**  
+- 🌱 Currently learning **Python, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning, Data Analysis and React** 
 - 💡 Strong foundation in **Java, OOP, Web Development, and Problem Solving**
 
 ---
