@@ -1,31 +1,56 @@
 <h1 align="center">👋 Hello, I'm Amshavarthana Sreesivanathasarma</h1>
-<h3 align="center">💻 Passionate Full-Stack Developer & Aspiring Data Analyst</h3>
+<h3 align="center">📊 Aspiring Data Science Intern | 💻 Software Engineering Undergraduate</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot%20|%20React%20|%20Python%20Pandas-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Python%20|%20Pandas%20|%20Data%20Analysis%20|%20React-blue?style=for-the-badge&logo=python" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Software Engineering Undergraduate at **University of Kelaniya**  
-- 💻 Passionate about **building interactive web applications** and **analyzing data**  
-- 🌱 Currently learning **Spring Boot, React, MySQL, Python, and Pandas**  
-- 💡 Strong foundation in **Java, OOP, Web Fundamentals, and Data Analysis**  
+- 🎓 Software Engineering Undergraduate (3rd Year) at **University of Kelaniya**  
+- 📊 Interested in **Data Science, Data Analysis, and Data Cleaning**  
+- 💻 Experience in **Web & Backend Development**  
+- 🌱 Currently learning **Python, Pandas, Data Analysis, React, and Spring Boot**  
+- 💡 Strong foundation in **Java, OOP, Web Development, and Problem Solving**
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,react,mysql,git,github,postman,python,pandas,matplotlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,spring,mysql,html,css,js,git,github,postman" />
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
 
+### 🚀 Featured Projects 
+
+#### 📈 Employee Attrition Prediction & Risk Analysis (Public)  
+- Analyzed and predicted **employee attrition** for a workforce of 1,470 employees  
+- Combines **Power BI Dashboard (Business Intelligence)** and **Machine Learning Model (Predictive Analytics)**  
+- Goal: Help HR teams identify **high-risk employees early** and take preventive action  
+- Highlights **data cleaning, visualization, and predictive modeling** skills  
+
+#### 🔑 MySQL User Login System (Public)
+- Complete user authentication system using **PHP & MySQL**  
+- Includes registration, login, logout, form validation, and session handling  
+- Built with **Bootstrap** for responsive design  
+
+#### 📚 Book Fair – Stall Reservation & Payment System (Contributor)  
+- Contributed to **Colombo International Book Fair project**  
+- Worked on **Reservation Stall Module, Payment Module, and Frontend About page**   
+- Backend development with **Spring Boot / MySQL**  
+- Repo link: [Bookfair](https://github.com/Sulakshan001/Bookfair)
+
+---
+
 ### 🎯 Current Goals
-- 🌐 Master **Full-Stack Web Development**  
-- 📊 Improve **Data Analysis & Visualization with Python and Pandas**  
-- ⚙️ Build personal projects combining **Web + Data Science**  
-- 💬 Contribute to **Open-source projects in both fields**  
+- 📊 Build **Data Analysis Projects using Python & Pandas**  
+- 📈 Learn **Data Visualization & Machine Learning**  
+- 💻 Continue developing **Web & Backend Applications**  
+- 🌱 Secure a **Data Science Internship**
 
 ---
 
@@ -43,4 +68,5 @@
 </p>
 
 ---
-- ⚡ Fun Fact: *“Turning imagination and data into functional insights — one project at a time!”*
+
+⚡ Fun Fact: *Turning data into insights and ideas into real-world applications.*
